@@ -1,4 +1,4 @@
-# 🛵 Gojek Clone Oranye - UAS Project
+# 🛵 Go-Ride - UAS Project
 
 Aplikasi Mobile Clone Gojek dengan tema warna Oranye (`#ff5900`) yang dibangun menggunakan **React Native** untuk Frontend dan **Express.js (Node.js)** dengan **SQLite3** untuk Backend.
 
